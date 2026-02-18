@@ -4,4 +4,13 @@
     Created: 20260216
 -->
 <Solution>
+  <Folder Name="/Development/" />
+  <Folder Name="/Development/CSharp/">
+    <Project Path="Primitives/Csh.Primitives.csproj" Id="fb4607d2-e131-4ede-91a5-3e857ac8823b" />
+    <Project Path="PrimitiveTests/Csh.PrimitiveTests.csproj" Id="f1732a8f-8157-4f30-a76e-88fdcb366d1b" />
+  </Folder>
+  <Folder Name="/Development/Powershell/" />
+  <Folder Name="/Network/" />
+  <Folder Name="/Security/" />
+  <Folder Name="/Systems/" />
 </Solution>
